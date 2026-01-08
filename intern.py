@@ -7,5 +7,7 @@ class Intern:
         print(f"My domain is {self.domain}")    
 
 
-intern=Intern("Aleena","Generative AI")        
-intern.introduce()
+intern1=Intern("Aleena","Generative AI")   
+intern2=Intern("Dilna", "Generative AI")     
+intern1.introduce()
+intern2.introduce()
